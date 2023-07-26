@@ -1,0 +1,10 @@
+h1{text-align: center; margin-top: 50px; color: #ffffff; font-family: 'PT Sans', sans-serif;}
+h2{text-align: center; margin-top: 15px; color: #000000; text-transform: uppercase; font-size: 20px; font-family: 'PT Sans', sans-serif;}
+.text{text-align: center; color: #ffffff; font-family: 'PT Sans', sans-serif;}
+.service-page{background-color: #E96662; width: 70%; padding: 25px; display: block;}
+.float-container{text-align: center; margin-left: 169px}
+.float-child{ width: 28.3%; background-color: #E96662; float: left;}
+.float-child img{border: 10px solid #ffffff; width: 80%; border-radius: 10px}
+.icon{font-size: 100px !important; padding: 10px; color: #ffffff;}
+.detail{background-color: #ffffff; width: 73%; padding: 10px; border: 10px solid #ffffff; border-radius: 10px; margin-left: 20px; margin-bottom: 50px}
+.detail p{color: #000000;}

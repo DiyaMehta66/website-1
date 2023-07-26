@@ -1,0 +1,9 @@
+
+h1{text-align: center; margin-top: 50px; color: #ffffff; font-family: 'PT Sans', sans-serif;}
+h2{text-align: center; margin-top: 15px; color: #ffffff; text-transform: uppercase; font-size: 20px; font-family: 'PT Sans', sans-serif;}
+.text{text-align: center; color: #ffffff; font-family: 'PT Sans', sans-serif;}
+.service-page{background-color: #E96662; width: 70%; padding: 25px; display: block;}
+.float-container{text-align: center; margin-left: 169px}
+.float-child{ width: 28.3%; background-color: #E96662; float: left;}
+.float-child img{width: 50%}
+.icon{font-size: 100px !important; padding: 10px; color: #ffffff;}
